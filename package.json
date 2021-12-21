@@ -1,0 +1,31 @@
+{
+  "name": "deputy-users-hierarchy-coding-challenge",
+  "version": "1.0.0",
+  "description": "This package contains my code the Deputy coding challenge interview",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0ss26/deputy-users-hierarchy-coding-challenge.git"
+  },
+  "keywords": [
+    "deputy",
+    "coding",
+    "challenge"
+  ],
+  "author": "Ross Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0ss26/deputy-users-hierarchy-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/r0ss26/deputy-users-hierarchy-coding-challenge#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
